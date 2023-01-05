@@ -1,1 +1,2 @@
-![alt text](https://region3.dost.gov.ph/images/banners/dost3_header.png)[bg][blue]
+![alt text](https://region3.dost.gov.ph/images/banners/dost3_header.png)
+![bg][blue]
